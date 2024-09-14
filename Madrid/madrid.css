@@ -1,0 +1,55 @@
+header{text-align: center;font-size: xx-large;text-shadow: 1px 1px;
+    ;background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS82pVf_LTYe1SI_tSwA8fgsdhcIE5Aguje4g&s);background-size: cover;background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents repeating the image */
+    margin: 0;
+    padding: 0;color: #f4f4f4;
+    padding: 20px;border: soild #333;
+    text-align: center;}
+header img {
+    width: 150px;
+    vertical-align:middle;}
+
+    nav {
+        margin: 20px;
+        text-align: center;border-radius: 2rem;background-color: black;
+    }
+    nav a {
+        color:goldenrod;
+        text-decoration: none;
+        margin: 0 15px;
+        font-weight: bold;}    
+h2{font-size: larger;} 
+h3{font-size: larger;}  
+h5{font-size: larger;}     
+h4{font-size: larger;}
+.content{ padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;}
+footer {
+        background-color:black;
+        color:goldenrod;
+        text-align: center;
+        padding: 10px;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }    
+   .axe{text-align:center;font-size: larger;text-shadow: #333;text-decoration: wavy;
+text-transform: capitalize;font-style: italic;color: goldenrod;}
+section img{ width: 400px;display:grid ;border-radius: 2rem;border-color:black ;box-shadow: #333;
+    }
+    .club{text-align:right;font-size: larger;text-shadow: #333;text-decoration: wavy;
+        text-transform: capitalize;font-style: italic;color: goldenrod;}
+        #one{width: 400px;display:grid ;border-radius: 2rem;border-color:black ;box-shadow: #333;vertical-align: auto;}
+        .ultra{text-align:right;font-size: larger;text-shadow: #333;text-decoration: wavy;color:goldenrod;font-style: italic;font-size: larger ;text-shadow: #333;}
+        body{background-color: grey;}

@@ -1,0 +1,34 @@
+header{text-align: center;font-size: xx-large;text-shadow: 1px 1px;color: goldenrod
+    ;background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AWdSnS_rgEXkK3pk73qiWgT9Gy4n11qASw&s);background-size: cover;background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents repeating the image */
+    margin: 0;
+    padding: 0;;
+    padding: 20px;
+    text-align: center;}
+body{background-color: gray;}
+footer {
+    background-color: #0a0b0c;
+    color:goldenrod;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;}
+    nav {
+        margin: 20px;
+        text-align: center;border-radius: 2rem;background-color: black;
+    }
+    nav a {
+        color:goldenrod;
+        text-decoration: none;
+        margin: 0 15px;
+        font-weight: bold;}    
+        body{background-color: grey;}
+        footer {
+            background-color: #0a0b0c;
+            color:goldenrod;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;}
